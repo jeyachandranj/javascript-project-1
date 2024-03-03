@@ -1,0 +1,30 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: black;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(img.jpg);
+    background-size: cover;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.table{
+    width: 70px;
+    height: 70px;
+    margin-bottom: 550px;
+    text-align: center;
+}
+h5{
+    margin-top: 100px;
+    font-size: 20px;
+}
+.new{
+    font-size: 50px;
+}
