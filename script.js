@@ -7,7 +7,7 @@ function hostal()
 {
     const currentYear = new Date().getFullYear();
     const currentDate = new Date();
-    const hostalDate = new Date(`March 23 ${currentYear} 00:00:00`);
+    const hostalDate = new Date(`March 25 ${currentYear} 00:00:00`);
     console.log(currentYear)
     console.log(currentDate)
     console.log(hostalDate)
